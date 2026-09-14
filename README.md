@@ -1,3 +1,3 @@
-#Tomáš Hataš
+Tomáš Hataš
 
 github.com
